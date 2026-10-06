@@ -1,0 +1,15 @@
+.venv/
+.cache/
+build/
+__pycache__/
+.DS_Store
+# Source footage and everything derived from it stays local.
+media/
+*.mp4
+*.webm
+*.mkv
+*.m4a
+*.wav
+*.bap
+*.aap
+*.bin
